@@ -1,4 +1,4 @@
--This project is to create a dashboard to monitor energy consumption of 5000 clients.
+-This project is to create a dashboard to monitor energy consumption of 5000 client households.
 
 -This project was done with collaboration of Hello Watt start-up and is done for practice use only.
 
